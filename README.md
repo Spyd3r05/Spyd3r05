@@ -15,46 +15,35 @@
 - 🎓 3rd-year CS student (Rural Kenya → Global dev scene)
 - 💥 Building Gen AI for **African communities**
 - 🖥️ Front-end dev: **React + Tailwind**
-- 📢 Founder of **DevGirl Universe** (WhatsApp content channel)
-
 ---
 
 ### 🛠️ My Stack
 
 ```ts
 const NZIVU_AGNES = {
-  frontend: ['React', 'Next.js', 'Tailwind CSS'],
+  frontend: ['React', 'TypeScript', 'Tailwind CSS', 'JavaScript'],
   tools: ['VS Code', 'Figma', 'GitHub'],
-  AI: ['ChatGPT','Perplexity','NotebookLLM', 'Hugging Face']
+  AI: ['ChatGPT','Perplexity','NotebookLLM', 'Hugging Face', 'many more']
 }
 ```
 
 ---
 
-### 🔨 Projects I'm Building
+### 🔨 Projects I wanna build
 
-- 🌍 AI tools for African users  
-- 🎨 React portfolio (Black-themed)  
+- 🌍 AI tools for African users(coming soon👀)
+- 🎨 React portfolio 
 - 🛒 Tailwind-powered e-commerce UI  
-- 💬 DevGirl Universe drops (daily tech + motivation)  
-- 🧠 African Gen AI ideas (coming soon 👀)
 
 ---
 
 ### 💡 What Drives Me
-
-- 🧠 Learning in public  
-- 💬 Teaching tech like you're 6  
+ 
 - 🚀 Africa *in* the AI race  
 - 🛠️ Solving problems I actually care about  
 
 ---
 
-### ✨ Just Me Things
-
-- 📚 Hate long paragraphs  
-- 🎨 Sketch anime for fun  
-- 📍 Proud rural Kenyan, building for the world  
 - 🖤 "Keep it Black. Keep it loud. Keep it building."
 
 ---
