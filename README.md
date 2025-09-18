@@ -50,8 +50,25 @@ const NZIVU_AGNES = {
 
 ### 📊 GitHub Stats
 
-<p align="center">
- <img src="https://ghchart.rshah.org/Spyd3r05" alt="GitHub Activity Graph" style="width: 100%; max-width: 700px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
-</p>
+<div style="
+  display: flex; 
+  justify-content: center; 
+  gap: 1.5rem; 
+  flex-wrap: wrap; 
+  max-width: 1000px; 
+  margin: 0 auto;
+">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Spyd3r05&show_icons=true&theme=radical" 
+    alt="GitHub Stats"
+    style="flex: 1 1 45%; max-width: 45%; height: auto;"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spyd3r05&layout=compact&theme=radical" 
+    alt="Top Languages"
+    style="flex: 1 1 45%; max-width: 45%; height: auto;"
+  />
+</div>
+
 
 ---
