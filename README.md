@@ -15,9 +15,8 @@
 
 ```ts
 const NZIVU = {
-  frontend: ['React', 'TypeScript', 'Tailwind CSS', 'JavaScript'],
-  tools: ['VS Code', 'GitHub'],
-  AI: ['ChatGPT','Perplexity','NotebookLLM', 'Hugging Face', 'many more']
+  skillsStack: ['React', 'NextJs', 'TypeScript', 'Tailwind CSS', 'JavaScript'],
+  toolStack: ['Cursor', 'Antigravity', 'Stitch', 'Vercel','Claude', 'and others']
 }
 ```
 
@@ -26,7 +25,8 @@ const NZIVU = {
 ### 💡 What Drives Me
  
 - 🚀 Being *in* the AI race  
-- 🛠️ Solving problems I actually care about  
+- 🛠️ Solving problems I actually care about
+- 📑 Learning new things. I love *self-studying*😊
 
 ---
 
