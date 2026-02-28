@@ -1,12 +1,12 @@
 ## 👋 Hey there!
 
 <h1 align="center">I'm NZIVU</h1>
-<p align="center">💻 Front-end Dev • 🤖 Gen AI Explorer</p>
+<p align="center">💻 Web Developer • 🤖 Gen AI Explorer</p>
 
 <p align="center">
   <a href="https://github.com/Spyd3r05">🌐 Portfolio</a> • 
   <a href="https://www.linkedin.com/in/nzivuagnes/">💼 LinkedIn</a> • 
-  <a href="mailto:shynyn254@gmail.com">📧 Email</a>
+  <a href="mailto:agnesnzivu05@gmail.com">📧 Email</a>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 ```ts
 const NZIVU = {
-  skillsStack: ['React', 'NextJs', 'TypeScript', 'Tailwind CSS', 'JavaScript'],
+  skillStack: ['React', 'NextJs', 'TypeScript', 'Tailwind CSS', 'JavaScript'],
   toolStack: ['Cursor', 'Antigravity', 'Stitch', 'Vercel','Claude', 'and others']
 }
 ```
