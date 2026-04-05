@@ -2,11 +2,11 @@
 
 # Hello, I'm **Nzivu** 👋
 
-### SOFTWARE DEVELOPER
+## SOFTWARE DEVELOPER
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nzivumueni.vercel.app-black?style=for-the-badge)](https://github.com/Spyd3r05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nzivuagnes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nzivuagnes/)
-[![Email](https://img.shields.io/badge/Email-agnesnzivu05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agnesnzivu05@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nzivu-black?style=for-the-badge)](https://github.com/Spyd3r05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nzivu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nzivuagnes/)
+[![Email](https://img.shields.io/badge/Email-nzivu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agnesnzivu05@gmail.com)
 
 </div>
 
@@ -45,18 +45,6 @@ My path into tech is one I carved myself  through documentation, late nights, op
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Nzivu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spyd3r05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spyd3r05&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🧭 Where I'm Headed
 
 Here's where I'm building toward:
@@ -80,7 +68,6 @@ I believe the best developers are the ones who are perpetually curious. I don't 
 If you're building something interesting, or you think I'd be a good fit for your team  I'd genuinely love to talk.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nzivuagnes/)
-[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nzivumueni.vercel.app/)
 [![Email](https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agnesnzivu05@gmail.com)
 
 ---
