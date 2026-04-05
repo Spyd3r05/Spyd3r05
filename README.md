@@ -2,9 +2,9 @@
 
 # Hello, I'm **Nzivu** 👋
 
-### Web Developer · Gen AI Explorer · Self-Taught & Proud of It
+### SOFTWARE DEVELOPER
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nzivumueni.vercel.app-black?style=for-the-badge)](https://nzivumueni.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nzivumueni.vercel.app-black?style=for-the-badge)](https://github.com/Spyd3r05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nzivuagnes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nzivuagnes/)
 [![Email](https://img.shields.io/badge/Email-agnesnzivu05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agnesnzivu05@gmail.com)
 
