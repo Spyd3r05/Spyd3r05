@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hello, I'm **Nzivu** 👋
+# Hi there. I'm **Nzivu**
 
-## SOFTWARE DEVELOPER
+---
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nzivu-black?style=for-the-badge)](https://github.com/Spyd3r05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nzivu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nzivuagnes/)
