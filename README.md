@@ -41,7 +41,6 @@ My path into tech is one I carved myself  through documentation, late nights, op
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=jetbrains&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
@@ -52,7 +51,7 @@ My path into tech is one I carved myself  through documentation, late nights, op
 
 ## 💡 Philosophy
 
-> *"Keep it Black. Keep it loud. Keep it building."*
+> *"Keep it Black. Keep it building."*
 
 I believe the best developers are the ones who are perpetually curious. I don't wait for a classroom. I find the repo, read the docs, and build the thing. That's how I've gotten this far, and it's how I plan to keep going.
 
@@ -69,6 +68,6 @@ If you're building something interesting, or you think I'd be a good fit for you
 
 <div align="center">
 
-*Open to remote work, internships, and freelance opportunities · Nairobi, Kenya · Available now*
+*Open to remote work, internships, and freelance opportunities · Nairobi, Kenya ·*
 
 </div>
