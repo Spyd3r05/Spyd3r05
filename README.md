@@ -42,16 +42,11 @@ My path into tech is one I carved myself  through documentation, late nights, op
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=flat-square&logo=cursor&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=jetbrains&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=code&logoColor=white)
 
----
-
-## 🧭 Where I'm Headed
-
-Here's where I'm building toward:
-
-- 🤖 **AI-Powered Products** - learning to embed LLMs and AI agents into real front-end experiences
-- 🧩 **Full-Stack Expansion** - picking up Node.js and backend fundamentals to become a more complete developer
-- 🌍 **Open Source Contribution** - making meaningful PRs to projects that matter
 
 ---
 
